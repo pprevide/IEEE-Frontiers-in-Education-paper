@@ -1,0 +1,33 @@
+## Exclude directories of visualizations
+
+figures
+tables
+
+# Exclude miscellaneous files
+
+misc
+
+## Exclude core latex/pdflatex auxiliary files:
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+
+## Exclude other intermediate documents:
+*.dvi
+*.xdv
+*-converted-to.*
+# these rules might exclude image files for figures etc.
+# *.ps
+# *.eps
+# *.pdf
+
+
